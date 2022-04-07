@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 
 title: Piero Cavalcanti
-logo: 
+logo: assets/images/profile.png
 description: Let's talk about data. And movies. And books. And stuff.
 show_downloads: true
 google_analytics:
