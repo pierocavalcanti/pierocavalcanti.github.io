@@ -1,6 +1,7 @@
 AUTHOR = 'Piero Cavalcanti'
 SITENAME = "PC's blog"
 SITEURL = "https://pierocavalcanti.github.io"
+THEME = 'themes/cid'
 
 PATH = "content"
 
