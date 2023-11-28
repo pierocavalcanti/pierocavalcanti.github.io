@@ -1,10 +1,10 @@
 AUTHOR = 'Piero Cavalcanti'
 SITENAME = "PC's blog"
-SITEURL = ""
+SITEURL = "https://pierocavalcanti.github.io"
 
 PATH = "content"
 
-TIMEZONE = 'Europe/Lisbon'
+TIMEZONE = 'Europe/Rome'
 
 DEFAULT_LANG = 'it'
 
@@ -29,7 +29,7 @@ SOCIAL = (
     ("Another social link", "#"),
 )
 
-DEFAULT_PAGINATION = 10
+DEFAULT_PAGINATION = 20
 
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
